@@ -1,0 +1,17 @@
+使用了VM的Node比普通的Node慢了200倍，但是似乎golang的多线程复杂性更要命
+golang的VM是300倍，差不多
+
+数据库Schema = =
+Environment 是一个label
+每个Environment的KV含有type
+
+type :
+    local
+    Azure
+    Cloudtest CI Box
+    Windows container
+
+electron里面有个ipcMain，两个进程的交流基于这个。
+如果有事件直接发信息
+
+事件好像是异步的，有什么Promise这种东西把他包起来

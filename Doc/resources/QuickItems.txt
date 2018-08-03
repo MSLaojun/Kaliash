@@ -1,0 +1,6 @@
+Analog Event System
+Analog Event Distribution System
+A Collaborative Intelligent Hypermedia Model Based on Advanced Petri Nets
+Advanced Petri Nets and the Fluent Calculus
+Introduction to Discrete Event Systems
+Event-Based Neuromorphic Systems
